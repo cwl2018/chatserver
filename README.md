@@ -1,3 +1,4 @@
 # chatserver
 A chat server made with python
-telnet to join
+/n 1. start server
+/n 2. use telnet to join the server
